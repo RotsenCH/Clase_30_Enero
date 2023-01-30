@@ -31,6 +31,7 @@ public class otromain {
                     row[i - 1] = rs.getObject(i);
                 }
                 model.addRow(row);
+                //
             }
 
             // Display JTable in JFrame
