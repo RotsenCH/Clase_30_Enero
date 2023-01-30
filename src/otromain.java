@@ -41,7 +41,7 @@ public class otromain {
             frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 
             // Clean up resources
-            //Cerrar
+            //
             rs.close();
             st.close();
             con.close();
